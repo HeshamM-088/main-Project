@@ -3,6 +3,7 @@ const Footer = () => {
     <div>
       Footer
       <p>Hello</p>
+      <p>Mostafa</p>
     </div>
   );
 };
